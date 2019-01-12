@@ -5,7 +5,9 @@
 ## 使用方法
 ### 環境
 OS:Ubuntu14.04  
-ROS Indigo  
+ROS:Indigo  
+### 実行
+launchファイルで…  
 
 ブラウザからhttp://<IPアドレス>:8000に接続する
 ## 実演
