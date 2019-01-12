@@ -4,7 +4,8 @@
 
 ## 使用方法
 ### 環境
-OS:Ubuntu14.04
-ROS Indigo
+OS:Ubuntu14.04  
+ROS Indigo  
 
+ブラウザからhttp://<IPアドレス>:8000に接続する
 ## 実演
